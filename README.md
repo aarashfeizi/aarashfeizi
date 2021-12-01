@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m currently interested in AI for social good projects and I look forward to collaborating with other interested researchers :) 
+
+
 <!--
 **aarashfeizi/aarashfeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
