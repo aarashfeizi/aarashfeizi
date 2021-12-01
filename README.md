@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m currently interested in AI for social good projects and I look forward to collaborating with other interested researchers :) 
+I’m currently super interested in **AI for social good** projects! :) 
+I also look forward to collaborating with other interested researchers, so don't feel shy to hit me up for a project! :) 
 
 
 <!--
